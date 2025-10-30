@@ -1,6 +1,6 @@
 ## Hey there 👾
 
-I'm Janat - I’m into **compilers** and love digging into how things work under the hood. 
+I’m into **compilers** and love digging into how things work under the hood. 
 
 ### Open Source Contributions
 - **[Swift compiler](https://github.com/swiftlang/swift)** – worked on property wrapper initialization internals, [details here](https://github.com/swiftlang/swift/pull/83886).  
